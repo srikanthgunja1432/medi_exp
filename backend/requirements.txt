@@ -1,0 +1,17 @@
+flask
+flask-cors
+flask-jwt-extended
+python-dotenv
+pymongo
+werkzeug
+gunicorn
+langchain>=0.3.0
+langchain-google-genai>=2.0.0
+langchain-community>=0.3.0
+reportlab>=4.0.0
+pytest
+pytest-asyncio
+httpx
+mongomock
+getstream>=0.1.0
+stream-chat>=3.0.0
